@@ -5,5 +5,8 @@
     "axe-core": "^4.8.0",
     "express": "^4.18.2",
     "playwright": "^1.41.2"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
